@@ -1,0 +1,153 @@
+.super{
+     position: absolute;
+     top:45%;
+     font-size:4.5em;
+     color:white;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.off{
+    position:absolute;
+    top:56%;
+    font-size:4.5em;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.shoes{
+    margin-top:-100px;
+}
+.shoe2{
+    margin-left: -5px;
+}
+.shoe3{
+    margin-left: -6px;
+}
+.bag{
+    position:absolute;
+    top:97%;
+    margin-left:150px;
+    color:#223263;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+.rate{
+    position: absolute;
+    top:130%;
+    margin-left:143px;
+    color:#9098B1;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    text-decoration: line-through;
+    font-style: normal;
+}
+.offer{
+    position: absolute;
+    top:130%;
+    margin-left: 217px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    color:#FB7181;
+    font-style: normal;
+}
+.dollar{
+    position: absolute;
+    width: 117.82px;
+    height: 39.29px;
+    left: 360px;
+    top: 1000px;
+   color:#40BFFF;
+   font-family:monospace;
+   font-weight: 700;
+   font-size: 30px;
+   letter-spacing: 0.5px;
+   font-style: normal;
+}
+.nike{
+    position: absolute;
+    top:97%;
+    left:568px;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    color: #223263;
+    font-style: normal;
+}
+.dolar{
+   position: absolute;
+  
+   left: 806.15px;
+   top: 740px;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   letter-spacing: 0.5px;
+   color: #40BFFF;
+}
+.rates{
+   position:absolute;
+   top:138%;
+   left:45%;
+   color:#9098B1;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   letter-spacing: 0.5px;
+   text-decoration-line: line-through;
+}
+.ofer{
+    position:absolute;
+    top:138%;
+    left:50%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FB7181;
+    letter-spacing: 0.5px;
+}
+.max{
+    position: absolute;
+    top:97%;
+    left:67%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #223263;
+}
+.ratess{
+    position: absolute;
+    top:109%;
+    left:67%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    text-decoration-line: line-through;
+    color: #9098B1;
+}
+.offers{
+       position: absolute;
+       top:109%;
+       left:72%;
+       font-style: normal;
+       font-weight: 700;
+       font-size: 16px;
+       letter-spacing: 0.5px;
+       color: #FB7181;
+}
+.dolars{
+    position: absolute;
+    top:137%;
+    left:80.5%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.5px;
+    color: #40BFFF;
+}
+
+
+

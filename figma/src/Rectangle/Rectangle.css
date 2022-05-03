@@ -1,0 +1,128 @@
+.rect {
+    background-color: #BCDDFE;
+    border: 2px solid #BCDDFE;
+    width: 150%;
+    padding-bottom: 50px;
+}
+
+.para {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #22262A;
+}
+
+.ecom {
+    margin-left: 80px;
+    margin-top: 140px;
+}
+
+.follow {
+    margin-top: 140px;
+    margin-left: 300px;
+}
+
+.us {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.para1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #22262A;
+}
+
+.contact {
+    margin-top: 140px;
+    margin-left: 260px;
+}
+
+.conta {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.para2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #22262A;
+}
+
+.info {
+    margin-left: 6rem;
+}
+
+.service {
+    margin-left: 15rem;
+}
+
+.account {
+    margin-left: 15rem;
+}
+
+.our {
+    margin-left: 15rem;
+}
+
+.info1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.service1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.account1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.our1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #22262A;
+}
+
+.below {
+    font-weight: 500;
+    font-size: 14px;
+    color: #262626;
+}
+.underline1{
+    border-bottom: 2px white solid;
+    width:50%;
+    margin-top: 80px;
+    margin-left: 8.2%;
+}
+.mail{
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #C1C8CE;
+    margin-left: 7.5%;
+}
+.west{
+    margin-left:48%;
+    margin-top: -1.7%;
+}
+.master{
+    margin-top: -1.7%;
+}
+.pay{
+    margin-top: -1.7%;
+}
+.visa{
+    margin-top: -1.7%;
+}

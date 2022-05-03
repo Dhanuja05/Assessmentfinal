@@ -1,0 +1,50 @@
+.load{
+  
+    color:#33A0FF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+.under{
+   border-top: 3px solid #33A0FF;
+   width:7.4%
+}
+.adidas{
+    background-color: #33A0FF;
+    border:1px #33A0FF solid;
+    width:150%;
+    padding-bottom:180px
+}
+.img1{
+   position: absolute;
+   top:278%;
+  left:45%
+}
+.adidas1{
+    color:white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    margin-left: 5%;
+    margin-top: 6%;
+}
+.per{
+    color: white;
+    margin-left: 5%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+.shop{
+    color:white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.underline{
+    border-bottom: 3px solid white;
+    width:3%;
+    margin-left: 5%;
+}

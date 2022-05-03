@@ -1,0 +1,23 @@
+.dot{
+    height: 13px;
+    width: 13px;
+    background-color:#FB7181;
+    border-radius: 50%;
+    border:2px solid #FB7181;
+    display: inline-block;
+    margin-left:-6px;
+}
+.num{
+    font-size:xx-small;
+    
+    margin-left:-8.5px;
+    font-weight:550;
+    color: white;
+    font-family: Poppins;
+}
+.colour{
+    color:rgb(150, 148, 148)
+}
+.profile{
+    margin-left:850px;
+}

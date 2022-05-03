@@ -1,0 +1,15 @@
+.search{
+    border:2px solid #40BFFF;
+    padding:8px;
+    padding-right: 15%;
+    border-radius: 3px;
+    margin-left: 35%;
+}
+.button{
+    border:none;
+    background-color: #40BFFF;
+    color:white;
+    padding:10px 25px;
+    border-radius: 3px;
+    margin-left: -5px;
+}

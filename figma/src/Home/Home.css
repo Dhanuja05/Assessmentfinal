@@ -1,0 +1,49 @@
+.category{
+    background: #FFFFFF;
+    border:#FFFFFF solid 2px;
+    width:60%;
+    height:39%;
+    position: absolute;
+    top: 15.5%;
+    left:16.5%;
+    padding-bottom: 20%;
+    margin-left:-7px;
+}
+.title{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#C1C8CE;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+.content{
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  color: #262626;
+}
+.corporate{
+    position:absolute;
+    left:24%;
+    top:16.5%;
+    font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  color: #262626;
+}
+.col3{
+    position: absolute;
+    top:0.9%;
+    left:43%;
+}
+.col4{
+    position: absolute;
+    top:17%;
+    left:60%
+}
+.col5{
+    position: absolute;
+    top:0.9%;
+    left:80%
+}
